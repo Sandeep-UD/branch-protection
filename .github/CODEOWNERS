@@ -1,0 +1,15 @@
+# ============================================================
+# CODEOWNERS Test File
+# ============================================================
+
+# Default owner for the entire repository
+@niranjana
+
+# Application source code
+/src/ @backend-team
+
+# Frontend code
+/frontend/ @frontend-team
+
+# Python files
+*.py @python-team
